@@ -1,0 +1,100 @@
+['o', 'a', 'k', 'r', 'u', 'd']
+o | a | krood
+oakrood
+What is the 2-th syllable?
+Alternative options: 
+	 ag
+	 oog
+	 droor
+	 erk
+Answer: a
+['f', 'n', 'epsilon', 'r', 'l', 'r', 'u', 'l', 'uh', 'r', 'n']
+fner | lroo | lurn
+fnerlroolurn
+What is the 1-th syllable?
+Alternative options: 
+	 fnook
+	 unf
+	 kwab
+	 dwemf
+Answer: fner
+['m', 'I', 'u', 'g', 'n', 'a', 'b']
+mi | oo | gnab
+mioognab
+What is the 2-th syllable?
+Alternative options: 
+	 fre
+	 ag
+	 frilf
+	 grap
+Answer: oo
+['p', 'm', 'u', 'l', 'r', 'uh', 'a', 'r', 'uh', 'n', 'g']
+pmoo | lru | a | rung
+pmoolruarung
+What is the 1-th syllable?
+Alternative options: 
+	 nag
+	 brir
+	 vwulb
+	 mam
+Answer: pmoo
+['d', 'r', 'I', 'l', 'k', 'w', 'e', 'j', 'I', 'n', 'e', 'l']
+dril | kwaiy | i | nail
+drilkwaiyinail
+What is the 1-th syllable?
+Alternative options: 
+	 twow
+	 fnunt
+	 breln
+	 bnoy
+Answer: dril
+['d', 'l', 'a', 'p', 'l', 'u', 'r', 'o', 'b', 'n', 'i', 'g']
+dla | ploo | ro | bneeg
+dlaploorobneeg
+What is the 3-th syllable?
+Alternative options: 
+	 bnook
+	 blai
+	 twol
+	 gmail
+Answer: ro
+['i', 'u', 'f', 'l', 'o', 'w', 'i', 'n', 'l', 'epsilon', 'r', 'd']
+ee | oo | flow | ee | nlerd
+eeoofloweenlerd
+What is the 4-th syllable?
+Alternative options: 
+	 tloot
+	 moy
+	 bnulv
+	 kleef
+Answer: ee
+['p', 'n', 'u', 'u', 'm', 'w', 'e', 'f', 'w', 'e', 'l', 'w', 'uh']
+pnoo | oo | mwai | fwai | lwu
+pnoooomwaifwailwu
+What is the 1-th syllable?
+Alternative options: 
+	 loon
+	 vnelt
+	 inp
+	 drird
+Answer: pnoo
+['g', 'w', 'epsilon', 'w', 'm', 'u', 'p', 'n', 'e', 'd', 'epsilon', 'w', 'd', 'w', 'e', 'p']
+gwew | moo | pnai | dew | dwaip
+gwewmoopnaidewdwaip
+What is the 4-th syllable?
+Alternative options: 
+	 flewn
+	 kmab
+	 oon
+	 eeb
+Answer: dew
+['e', 'n', 'l', 'e', 't', 'm', 'o', 'm', 'l', 'u', 'l', 'r', 'epsilon', 'w', 'd', 'l', 'uh', 'w', 'p']
+ai | nlai | tmo | mloo | lrew | dluwp
+ainlaitmomloolrewdluwp
+What is the 5-th syllable?
+Alternative options: 
+	 bloop
+	 twab
+	 rind
+	 twuw
+Answer: lrew

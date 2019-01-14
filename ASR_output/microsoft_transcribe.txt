@@ -1,0 +1,505 @@
+===Audio 1===
+
+    Session started event.
+RECOGNIZING: Text=post
+RECOGNIZING: Text=both
+RECOGNIZING: Text=postnet
+RECOGNIZING: Text=both
+RECOGNIZING: Text=postnet
+RECOGNIZING: Text=both
+RECOGNIZING: Text=postnet
+RECOGNIZING: Text=postnet alone
+RECOGNIZED: Text=Postnet alone.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 2===
+
+    Session started event.
+RECOGNIZING: Text=from
+RECOGNIZING: Text=lumber
+RECOGNIZING: Text=drum roll
+RECOGNIZING: Text=from
+RECOGNIZING: Text=drum roll
+RECOGNIZING: Text=drum roll out
+RECOGNIZED: Text=Drum roll out.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 3===
+
+    Session started event.
+RECOGNIZING: Text=come
+RECOGNIZING: Text=come on
+RECOGNIZING: Text=command
+RECOGNIZING: Text=come on
+RECOGNIZING: Text=come on luke
+RECOGNIZING: Text=come on luke met
+RECOGNIZED: Text=Come on Luke met.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 4===
+
+    Session started event.
+RECOGNIZING: Text=click
+RECOGNIZING: Text=click right
+RECOGNIZING: Text=click
+RECOGNIZING: Text=click radio
+RECOGNIZED: Text=Click radio.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 5===
+
+    Session started event.
+RECOGNIZING: Text=quite
+RECOGNIZING: Text=quite granby
+RECOGNIZING: Text=play grand
+RECOGNIZING: Text=wigram beat
+RECOGNIZED: Text=Quite Granby.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 6===
+
+    Session started event.
+RECOGNIZING: Text=god
+RECOGNIZING: Text=good
+RECOGNIZING: Text=god
+RECOGNIZING: Text=good lil
+RECOGNIZING: Text=godzilla
+RECOGNIZING: Text=good lil
+RECOGNIZING: Text=godzilla
+RECOGNIZING: Text=god little mouth
+RECOGNIZED: Text=God little mouth.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 7===
+
+    Session started event.
+RECOGNIZING: Text=great
+RECOGNIZING: Text=way way
+RECOGNIZING: Text=way
+RECOGNIZING: Text=way we
+RECOGNIZING: Text=way
+RECOGNIZING: Text=way we
+RECOGNIZING: Text=way we make
+RECOGNIZED: Text=Way we make.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 8===
+
+    Session started event.
+RECOGNIZING: Text=indent mean
+RECOGNIZED: Text=Indent mean
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 9===
+
+    Session started event.
+RECOGNIZING: Text=groove
+RECOGNIZING: Text=ruth marie
+RECOGNIZED: Text=Ruth Marie.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 10===
+
+    Session started event.
+RECOGNIZING: Text=glenn
+RECOGNIZING: Text=glenda
+RECOGNIZING: Text=glenwood
+RECOGNIZING: Text=glenn will
+RECOGNIZING: Text=glenn will grow
+RECOGNIZING: Text=glenwood
+RECOGNIZING: Text=glenwood girl
+RECOGNIZED: Text=Glenwood girl.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 11===
+
+    Session started event.
+RECOGNIZING: Text=elite
+RECOGNIZING: Text=alien
+RECOGNIZING: Text=earlier
+RECOGNIZING: Text=ill
+RECOGNIZING: Text=elier
+RECOGNIZING: Text=elier food
+RECOGNIZING: Text=elier fugly
+RECOGNIZING: Text=elier food
+RECOGNIZING: Text=elier food lake
+RECOGNIZED: Text=Elier food Lake.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 12===
+
+    Session started event.
+RECOGNIZING: Text=now
+RECOGNIZING: Text=now rare
+RECOGNIZING: Text=now rare fruit
+RECOGNIZING: Text=now rare fruit and
+RECOGNIZING: Text=now rare fruit
+RECOGNIZING: Text=now rare fruit noir
+RECOGNIZED: Text=Now rare fruit noir.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 13===
+
+    Session started event.
+RECOGNIZING: Text=toyota
+RECOGNIZED: Text=Toyota Gore,
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 14===
+
+    Session started event.
+RECOGNIZING: Text=what's
+RECOGNIZING: Text=what
+RECOGNIZING: Text=what's
+RECOGNIZING: Text=what
+RECOGNIZING: Text=what's a
+RECOGNIZING: Text=what's
+RECOGNIZING: Text=whetzel mary
+RECOGNIZING: Text=what's luminary
+RECOGNIZED: Text=What's luminary?
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 15===
+
+    Session started event.
+RECOGNIZING: Text=trend
+RECOGNIZING: Text=trent
+RECOGNIZING: Text=trent lott
+RECOGNIZING: Text=trend
+RECOGNIZING: Text=trend laferrari
+RECOGNIZED: Text=Trend Laferrari.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 16===
+
+    Session started event.
+RECOGNIZING: Text=play
+RECOGNIZING: Text=plumber
+RECOGNIZING: Text=plum rain
+RECOGNIZING: Text=plum rain war
+RECOGNIZING: Text=plum rain war of
+RECOGNIZED: Text=Plum Rain War of.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 17===
+
+    Session started event.
+RECOGNIZING: Text=but why
+RECOGNIZING: Text=but why you
+RECOGNIZING: Text=try youtube
+RECOGNIZING: Text=try youtube moon
+RECOGNIZED: Text=Try YouTube moon.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 18===
+
+    Session started event.
+RECOGNIZING: Text=bring
+RECOGNIZING: Text=brimley
+RECOGNIZING: Text=brimley lot
+RECOGNIZING: Text=brimley
+RECOGNIZING: Text=brimley lair
+RECOGNIZING: Text=brimley
+RECOGNIZING: Text=brimley larpool
+RECOGNIZING: Text=brimley lair
+RECOGNIZED: Text=Brimley lair poop?
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 19===
+
+    Session started event.
+RECOGNIZING: Text=hard
+RECOGNIZING: Text=hardware
+RECOGNIZING: Text=hard world
+RECOGNIZING: Text=hardware
+RECOGNIZING: Text=hardware mug
+RECOGNIZED: Text=Hardware mug.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 20===
+
+    Session started event.
+RECOGNIZING: Text=open
+RECOGNIZING: Text=open new
+RECOGNIZING: Text=open uber
+RECOGNIZING: Text=open new
+RECOGNIZING: Text=open uber
+RECOGNIZING: Text=open new
+RECOGNIZING: Text=open uber
+RECOGNIZING: Text=open uber only
+RECOGNIZING: Text=open uber on
+RECOGNIZING: Text=open uber on meal
+RECOGNIZED: Text=Open Uber on meal.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 21===
+
+    Session started event.
+RECOGNIZING: Text=make
+RECOGNIZING: Text=make me
+RECOGNIZING: Text=make note
+RECOGNIZING: Text=make
+RECOGNIZING: Text=make note
+RECOGNIZING: Text=make note meant mean
+RECOGNIZING: Text=make note mem
+RECOGNIZING: Text=make note meant mean
+RECOGNIZING: Text=make note meant mean wolf
+RECOGNIZED: Text=Make note meant mean Wolf.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 22===
+
+    Session started event.
+RECOGNIZING: Text=name
+RECOGNIZING: Text=name rock
+RECOGNIZING: Text=name rock N
+RECOGNIZING: Text=name rock N play
+RECOGNIZING: Text=name rock 'n'
+RECOGNIZING: Text=name rock N plant
+RECOGNIZING: Text=name rock 'n'
+RECOGNIZING: Text=name rock 'n' blindly
+RECOGNIZING: Text=name rock 'n' blah blah
+RECOGNIZING: Text=name rock 'n' planned
+RECOGNIZED: Text=Name rock'n' blah blah.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 23===
+
+    Session started event.
+RECOGNIZING: Text=milk
+RECOGNIZING: Text=milk now
+RECOGNIZING: Text=milk
+RECOGNIZING: Text=milk non
+RECOGNIZING: Text=milk non warrior
+RECOGNIZING: Text=milk nonwords rod
+RECOGNIZING: Text=milk non were drug
+RECOGNIZING: Text=milk nonwords
+RECOGNIZING: Text=milk nonwords rodney
+RECOGNIZING: Text=milk non warrior trogner
+RECOGNIZING: Text=milk nonwords ragnarr
+RECOGNIZED: Text=Milk Nonwords Ragnarr.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 24===
+
+    Session started event.
+RECOGNIZING: Text=true
+RECOGNIZING: Text=troll
+RECOGNIZING: Text=trib roy
+RECOGNIZING: Text=troy clarke
+RECOGNIZING: Text=trib roy clark
+RECOGNIZING: Text=troy
+RECOGNIZING: Text=troll broad klatt
+RECOGNIZING: Text=troll broad klatt real
+RECOGNIZING: Text=troll broad klatt real rob
+RECOGNIZED: Text=Troll broad Klatt Real Rob.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 25===
+
+    Session started event.
+RECOGNIZING: Text=camaro
+RECOGNIZING: Text=maryland
+RECOGNIZING: Text=marilyn
+RECOGNIZING: Text=maryland multi
+RECOGNIZING: Text=marilyn
+RECOGNIZING: Text=maryland multi
+RECOGNIZING: Text=maryland multi black
+RECOGNIZED: Text=Maryland multi black.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 26===
+
+    Session started event.
+RECOGNIZING: Text=print
+RECOGNIZING: Text=printer
+RECOGNIZING: Text=prayer
+RECOGNIZING: Text=printer
+RECOGNIZING: Text=printer weld
+RECOGNIZING: Text=printer weld montafon
+RECOGNIZING: Text=printer weldment
+RECOGNIZING: Text=printer weldment often
+RECOGNIZED: Text=Printer Weldment Offen.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 27===
+
+    Session started event.
+RECOGNIZING: Text=pray
+RECOGNIZING: Text=pre
+RECOGNIZING: Text=pray
+RECOGNIZING: Text=priya
+RECOGNIZING: Text=priya goop
+RECOGNIZING: Text=priya goo
+RECOGNIZING: Text=priya goo praise
+RECOGNIZED: Text=Priya goo praise.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 28===
+
+    Session started event.
+RECOGNIZING: Text=come
+RECOGNIZING: Text=can
+RECOGNIZING: Text=connect
+RECOGNIZING: Text=can i
+RECOGNIZING: Text=and likewise
+RECOGNIZING: Text=can i
+RECOGNIZING: Text=connect wire
+RECOGNIZING: Text=connect wireless
+RECOGNIZING: Text=connect wire when
+RECOGNIZING: Text=connect wire went
+RECOGNIZING: Text=connect wire when
+RECOGNIZING: Text=connect wire when rove
+RECOGNIZING: Text=connect wire when
+RECOGNIZING: Text=connect wire when rove
+RECOGNIZING: Text=connect wire when road
+RECOGNIZING: Text=connect wire when rove
+RECOGNIZING: Text=connect wire when rove met
+RECOGNIZED: Text=Connect wire when Rove met.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 29===
+
+    Session started event.
+RECOGNIZING: Text=flower
+RECOGNIZING: Text=fly away
+RECOGNIZING: Text=fly away for
+RECOGNIZING: Text=fly away for free
+RECOGNIZING: Text=fly away fourth
+RECOGNIZED: Text=Fly Away Fourth Nog.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.
+===Audio 30===
+
+    Session started event.
+RECOGNIZING: Text=mirror
+RECOGNIZING: Text=mere
+RECOGNIZING: Text=murphy
+RECOGNIZING: Text=mere
+RECOGNIZING: Text=murph
+RECOGNIZING: Text=mere fleegle
+RECOGNIZING: Text=mere fleegle room
+RECOGNIZING: Text=mere fleegle room land
+RECOGNIZED: Text=Mere Fleegle Room land.
+NOMATCH: Speech could not be recognized.
+CANCELED: Reason=EndOfStream
+
+    Session stopped event.
+
+Stop recognition.

@@ -1,0 +1,100 @@
+['m', 'e', 'k', 'm', 'u', 't', 'm', 'epsilon', 'm', 'd', 'n', 'i', 'n', 'w', 'o', 'f']
+mai | kmoo | tmem | dnee | nwof
+maikmootmemdneenwof
+What is the 4-th syllable?
+Alternative options: 
+	 pnumd
+	 fnop
+	 dnool
+	 url
+Answer: dnee
+['t', 'n', 'i', 'm', 'r', 'a', 'k', 'epsilon', 'n', 'b', 'l', 'uh', 'n', 'd', 'l', 'uh', 'l']
+tnee | mra | ken | blun | dlul
+tneemrakenblundlul
+What is the 1-th syllable?
+Alternative options: 
+	 knemp
+	 blan
+	 proor
+	 pro
+Answer: tnee
+['k', 'n', 'uh', 'l', 'k', 'n', 'a', 'n', 'w', 'uh', 'w', 't', 'r', 'a', 'g', 'n', 'e', 'r']
+knul | kna | nwuw | tra | gnair
+knulknanwuwtragnair
+What is the 5-th syllable?
+Alternative options: 
+	 fwer
+	 traid
+	 el
+	 maw
+Answer: gnair
+['t', 'r', 'o', 'b', 'r', 'o', 'j', 'i', 'k', 'l', 'uh', 'r', 'l', 'r', 'a', 'b']
+tro | broyee | klur | lrab
+trobroyeeklurlrab
+What is the 4-th syllable?
+Alternative options: 
+	 vnood
+	 prain
+	 frinf
+	 pneef
+Answer: lrab
+['k', 'm', 'e', 'r', 'o', 'n', 'l', 'uh', 'l', 'd', 'i', 'b', 'l', 'e', 'k']
+kmai | ro | nlul | dee | blaik
+kmaironluldeeblaik
+What is the 4-th syllable?
+Alternative options: 
+	 eem
+	 enp
+	 gwaip
+	 aiw
+Answer: dee
+['p', 'r', 'epsilon', 'r', 'w', 'uh', 'l', 'd', 'm', 'uh', 'n', 't', 'a', 'f', 'u', 'm']
+pre | rwul | dmun | ta | foom
+prerwuldmuntafoom
+What is the 1-th syllable?
+Alternative options: 
+	 aw
+	 trod
+	 kwal
+	 luwb
+Answer: pre
+['p', 'r', 'I', 'a', 'g', 'u', 'u', 'p', 'r', 'i', 'f']
+pri | a | goo | oo | preef
+priagoooopreef
+What is the 2-th syllable?
+Alternative options: 
+	 frulf
+	 fleep
+	 vrirp
+	 ern
+Answer: a
+['k', 'm', 'e', 'k', 'w', 'a', 'r', 'w', 'e', 'n', 'r', 'o', 'v', 'm', 'e', 't']
+kmai | kwa | rwai | nro | vmait
+kmaikwarwainrovmait
+What is the 2-th syllable?
+Alternative options: 
+	 aim
+	 aip
+	 glult
+	 irn
+Answer: kwa
+['f', 'l', 'a', 'l', 'w', 'e', 'j', 'i', 'f', 'w', 'o', 'f', 'n', 'a', 'g']
+fla | lwaiyee | fwo | fnag
+flalwaiyeefwofnag
+What is the 1-th syllable?
+Alternative options: 
+	 fmeer
+	 tmeel
+	 fwaid
+	 bmeep
+Answer: fla
+['t', 'm', 'I', 'r', 'f', 'l', 'e', 'j', 'i', 'l', 'r', 'u', 'm', 'l', 'epsilon', 'n', 'd']
+tmir | flaiyee | lroo | mlend
+tmirflaiyeelroomlend
+What is the 3-th syllable?
+Alternative options: 
+	 klir
+	 tmurd
+	 tlot
+	 gnair
+Answer: lroo

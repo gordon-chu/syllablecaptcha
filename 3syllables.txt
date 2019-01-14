@@ -1,0 +1,100 @@
+['p', 'l', 'u', 'f', 'n', 'e', 'f', 'l', 'u', 'n']
+ploo | fnai | floon
+ploofnaifloon
+What is the 2-th syllable?
+Alternative options: 
+	 gnaib
+	 trood
+	 bneem
+	 ent
+Answer: fnai
+['b', 'w', 'a', 'm', 'r', 'o', 'l', 'e', 'l']
+bwa | mro | lail
+bwamrolail
+What is the 2-th syllable?
+Alternative options: 
+	 prad
+	 ploom
+	 bnirg
+	 knuwf
+Answer: mro
+['k', 'm', 'a', 'n', 'l', 'u', 'p', 'm', 'e', 't']
+kma | nloo | pmait
+kmanloopmait
+What is the 1-th syllable?
+Alternative options: 
+	 pmumg
+	 rol
+	 vroo
+	 vreld
+Answer: kma
+['g', 'l', 'i', 'g', 'r', 'e', 'j', 'u', 'p']
+glee | graiyoop
+gleegraiyoop
+What is the 1-th syllable?
+Alternative options: 
+	 kmaif
+	 aid
+	 vroob
+	 low
+Answer: glee
+['p', 'w', 'e', 'g', 'r', 'epsilon', 'n', 'g', 'i', 't']
+pwai | gren | geet
+pwaigrengeet
+What is the 1-th syllable?
+Alternative options: 
+	 pnult
+	 aim
+	 bloon
+	 og
+Answer: pwai
+['v', 'l', 'o', 'd', 'l', 'I', 'l', 'n', 'a', 'b']
+vlo | dlil | nab
+vlodlilnab
+What is the 1-th syllable?
+Alternative options: 
+	 vnool
+	 kwerb
+	 dmilv
+	 pmeek
+Answer: vlo
+['g', 'w', 'e', 'w', 'u', 'm', 'i', 'g']
+gwaiwoo | meeg
+gwaiwoomeeg
+What is the 1-th syllable?
+Alternative options: 
+	 gloor
+	 raiy
+	 aiw
+	 trag
+Answer: gwaiwoo
+['I', 'n', 'd', 'I', 'n', 't', 'm', 'i', 'm']
+in | din | tmeem
+indintmeem
+What is the 1-th syllable?
+Alternative options: 
+	 dleel
+	 oor
+	 mer
+	 ook
+Answer: in
+['v', 'r', 'u', 'v', 'm', 'a', 'r', 'I']
+vroo | vma | ri
+vroovmari
+What is the 2-th syllable?
+Alternative options: 
+	 oot
+	 vrinp
+	 vwam
+	 knaiy
+Answer: vma
+['v', 'l', 'e', 'm', 'w', 'o', 'g', 'r', 'a', 'l']
+vlai | mwo | gral
+vlaimwogral
+What is the 3-th syllable?
+Alternative options: 
+	 trinv
+	 klot
+	 vmaiw
+	 ran
+Answer: gral

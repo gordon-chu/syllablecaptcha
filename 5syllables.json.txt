@@ -1,0 +1,60 @@
+q21 = {
+	'i' : 4,
+	'mp3_url' : '21.mp3',
+	'options' : ['pnumd', 'fnop', 'dnool', 'url', 'dnee'],
+	'answer' : 'dnee'
+};
+q22 = {
+	'i' : 1,
+	'mp3_url' : '22.mp3',
+	'options' : ['knemp', 'blan', 'proor', 'pro', 'tnee'],
+	'answer' : 'tnee'
+};
+q23 = {
+	'i' : 5,
+	'mp3_url' : '23.mp3',
+	'options' : ['fwer', 'traid', 'el', 'maw', 'gnair'],
+	'answer' : 'gnair'
+};
+q24 = {
+	'i' : 4,
+	'mp3_url' : '24.mp3',
+	'options' : ['vnood', 'prain', 'frinf', 'pneef', 'lrab'],
+	'answer' : 'lrab'
+};
+q25 = {
+	'i' : 4,
+	'mp3_url' : '25.mp3',
+	'options' : ['eem', 'enp', 'gwaip', 'aiw', 'dee'],
+	'answer' : 'dee'
+};
+q26 = {
+	'i' : 1,
+	'mp3_url' : '26.mp3',
+	'options' : ['aw', 'trod', 'kwal', 'luwb', 'pre'],
+	'answer' : 'pre'
+};
+q27 = {
+	'i' : 2,
+	'mp3_url' : '27.mp3',
+	'options' : ['frulf', 'fleep', 'vrirp', 'ern', 'a'],
+	'answer' : 'a'
+};
+q28 = {
+	'i' : 2,
+	'mp3_url' : '28.mp3',
+	'options' : ['aim', 'aip', 'glult', 'irn', 'kwa'],
+	'answer' : 'kwa'
+};
+q29 = {
+	'i' : 1,
+	'mp3_url' : '29.mp3',
+	'options' : ['fmeer', 'tmeel', 'fwaid', 'bmeep', 'fla'],
+	'answer' : 'fla'
+};
+q30 = {
+	'i' : 3,
+	'mp3_url' : '30.mp3',
+	'options' : ['klir', 'tmurd', 'tlot', 'gnair', 'lroo'],
+	'answer' : 'lroo'
+};

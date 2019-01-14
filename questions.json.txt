@@ -1,0 +1,187 @@
+
+    // 10 (3-syllable) questions
+    q1 = {
+        'i' : 2,
+        'mp3_url' : '1.mp3',
+        'options' : ['gnaib', 'trood', 'bneem', 'ent', 'fnai'],
+        'answer' : 'fnai'
+    };
+
+    q2 = {
+    	'i' : 2,
+    	'mp3_url' : '2.mp3',
+    	'options' : ['prad', 'ploom', 'bnirg', 'knuwf', 'mro'],
+    	'answer' : 'mro'
+    };
+    q3 = {
+    	'i' : 1,
+    	'mp3_url' : '3.mp3',
+    	'options' : ['pmumg', 'rol', 'vroo', 'vreld', 'kma'],
+    	'answer' : 'kma'
+    };
+    q4 = {
+    	'i' : 1,
+    	'mp3_url' : '4.mp3',
+    	'options' : ['kmaif', 'aid', 'vroob', 'low', 'glee'],
+    	'answer' : 'glee'
+    };
+    q5 = {
+    	'i' : 1,
+    	'mp3_url' : '5.mp3',
+    	'options' : ['pnult', 'aim', 'bloon', 'og', 'pwai'],
+    	'answer' : 'pwai'
+    };
+    q6 = {
+    	'i' : 1,
+    	'mp3_url' : '6.mp3',
+    	'options' : ['vnool', 'kwerb', 'dmilv', 'pmeek', 'vlo'],
+    	'answer' : 'vlo'
+    };
+    q7 = {
+    	'i' : 1,
+    	'mp3_url' : '7.mp3',
+    	'options' : ['gloor', 'raiy', 'aiw', 'trag', 'gwaiw'],
+    	'answer' : 'gwaiw'
+    };
+    q8 = {
+    	'i' : 1,
+    	'mp3_url' : '8.mp3',
+    	'options' : ['dleel', 'oor', 'mer', 'ook', 'in'],
+    	'answer' : 'in'
+    };
+    q9 = {
+    	'i' : 2,
+    	'mp3_url' : '9.mp3',
+    	'options' : ['oot', 'vrinp', 'vwam', 'knaiy', 'vma'],
+    	'answer' : 'vma'
+    };
+    q10 = {
+    	'i' : 3,
+    	'mp3_url' : '10.mp3',
+    	'options' : ['trinv', 'klot', 'vmaiw', 'ran', 'gral'],
+    	'answer' : 'gral'
+    };
+
+    // 10 (4-syllable questions)
+    q11 = {
+    	'i' : 4,
+    	'mp3_url' : '11.mp3',
+    	'options' : ['naf', 'flemg', 'frag', 'vreem', 'gleeg'],
+    	'answer' : 'gleeg'
+    };
+    q12 = {
+    	'i' : 3,
+    	'mp3_url' : '12.mp3',
+    	'options' : ['gmaig', 'tmemt', 'vwaig', 'vnelm', 'froo'],
+    	'answer' : 'froo'
+    };
+    q13 = {
+    	'i' : 1,
+    	'mp3_url' : '13.mp3',
+    	'options' : ['free', 'vrood', 'pwert', 'krelk', 'twai'],
+    	'answer' : 'twai'
+    };
+    q14 = {
+    	'i' : 2,
+    	'mp3_url' : '14.mp3',
+    	'options' : ['urf', 'blow', 'dmai', 'ool', 'flo'],
+    	'answer' : 'flo'
+    };
+    q15 = {
+    	'i' : 2,
+    	'mp3_url' : '15.mp3',
+    	'options' : ['u', 'gmool', 'brok', 'nuwm', 'bloo'],
+    	'answer' : 'bloo'
+    };
+    q16 = {
+    	'i' : 4,
+    	'mp3_url' : '16.mp3',
+    	'options' : ['oog', 'fnaif', 'bmom', 'gnan', 'rof'],
+    	'answer' : 'rof'
+    };
+    q17 = {
+    	'i' : 3,
+    	'mp3_url' : '17.mp3',
+    	'options' : ['gnail', 'knimd', 'fnof', 'fnaiy', 'too'],
+    	'answer' : 'too'
+    };
+    q18 = {
+    	'i' : 2,
+    	'mp3_url' : '18.mp3',
+    	'options' : ['pmaim', 'vrat', 'twenf', 'pwan', 'glee'],
+    	'answer' : 'glee'
+    };
+    q19 = {
+    	'i' : 4,
+    	'mp3_url' : '19.mp3',
+    	'options' : ['tlew', 'fror', 'dreeb', 'trap', 'mwok'],
+    	'answer' : 'mwok'
+    };
+    q20 = {
+    	'i' : 2,
+    	'mp3_url' : '20.mp3',
+    	'options' : ['ni', 'fwenp', 'vlumb', 'trirt', 'bnoo'],
+    	'answer' : 'bnoo'
+    };
+
+    // 10 (5-syllable questions)
+    q21 = {
+    	'i' : 4,
+    	'mp3_url' : '21.mp3',
+    	'options' : ['pnumd', 'fnop', 'dnool', 'url', 'dnee'],
+    	'answer' : 'dnee'
+    };
+    q22 = {
+    	'i' : 1,
+    	'mp3_url' : '22.mp3',
+    	'options' : ['knemp', 'blan', 'proor', 'pro', 'tnee'],
+    	'answer' : 'tnee'
+    };
+    q23 = {
+    	'i' : 5,
+    	'mp3_url' : '23.mp3',
+    	'options' : ['fwer', 'traid', 'el', 'maw', 'gnair'],
+    	'answer' : 'gnair'
+    };
+    q24 = {
+    	'i' : 4,
+    	'mp3_url' : '24.mp3',
+    	'options' : ['vnood', 'prain', 'frinf', 'pneef', 'klur'],
+    	'answer' : 'klur'
+    };
+    q25 = {
+    	'i' : 4,
+    	'mp3_url' : '25.mp3',
+    	'options' : ['eem', 'enp', 'gwaip', 'aiw', 'dee'],
+    	'answer' : 'dee'
+    };
+    q26 = {
+    	'i' : 1,
+    	'mp3_url' : '26.mp3',
+    	'options' : ['aw', 'trod', 'kwal', 'luwb', 'pre'],
+    	'answer' : 'pre'
+    };
+    q27 = {
+    	'i' : 2,
+    	'mp3_url' : '27.mp3',
+    	'options' : ['frulf', 'fleep', 'vrirp', 'ern', 'a'],
+    	'answer' : 'a'
+    };
+    q28 = {
+    	'i' : 2,
+    	'mp3_url' : '28.mp3',
+    	'options' : ['aim', 'aip', 'glult', 'irn', 'kwa'],
+    	'answer' : 'kwa'
+    };
+    q29 = {
+    	'i' : 1,
+    	'mp3_url' : '29.mp3',
+    	'options' : ['fmeer', 'tmeel', 'fwaid', 'bmeep', 'fla'],
+    	'answer' : 'fla'
+    };
+    q30 = {
+    	'i' : 3,
+    	'mp3_url' : '30.mp3',
+    	'options' : ['klir', 'tmurd', 'tlot', 'gnair', 'ee'],
+    	'answer' : 'ee'
+    };

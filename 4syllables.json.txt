@@ -1,0 +1,60 @@
+q11 = {
+	'i' : 4,
+	'mp3_url' : '11.mp3',
+	'options' : ['naf', 'flemg', 'frag', 'vreem', 'gleeg'],
+	'answer' : 'gleeg'
+};
+q12 = {
+	'i' : 3,
+	'mp3_url' : '12.mp3',
+	'options' : ['gmaig', 'tmemt', 'vwaig', 'vnelm', 'froo'],
+	'answer' : 'froo'
+};
+q13 = {
+	'i' : 1,
+	'mp3_url' : '13.mp3',
+	'options' : ['free', 'vrood', 'pwert', 'krelk', 'twai'],
+	'answer' : 'twai'
+};
+q14 = {
+	'i' : 2,
+	'mp3_url' : '14.mp3',
+	'options' : ['urf', 'blow', 'dmai', 'ool', 'flo'],
+	'answer' : 'flo'
+};
+q15 = {
+	'i' : 2,
+	'mp3_url' : '15.mp3',
+	'options' : ['u', 'gmool', 'brok', 'nuwm', 'bloo'],
+	'answer' : 'bloo'
+};
+q16 = {
+	'i' : 4,
+	'mp3_url' : '16.mp3',
+	'options' : ['oog', 'fnaif', 'bmom', 'gnan', 'rof'],
+	'answer' : 'rof'
+};
+q17 = {
+	'i' : 3,
+	'mp3_url' : '17.mp3',
+	'options' : ['gnail', 'knimd', 'fnof', 'fnaiy', 'gmoom'],
+	'answer' : 'gmoom'
+};
+q18 = {
+	'i' : 2,
+	'mp3_url' : '18.mp3',
+	'options' : ['pmaim', 'vrat', 'twenf', 'pwan', 'glee'],
+	'answer' : 'glee'
+};
+q19 = {
+	'i' : 4,
+	'mp3_url' : '19.mp3',
+	'options' : ['tlew', 'fror', 'dreeb', 'trap', 'mwok'],
+	'answer' : 'mwok'
+};
+q20 = {
+	'i' : 2,
+	'mp3_url' : '20.mp3',
+	'options' : ['ni', 'fwenp', 'vlumb', 'trirt', 'bnoo'],
+	'answer' : 'bnoo'
+};
